@@ -1,0 +1,88 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Tour Guide App</string>
+
+    <!-- Category names -->
+    <string name="category_attractions">Attraction</string>
+    <string name="category_shopping">Shopping</string>
+    <string name="category_restaurant">Restaurant</string>
+    <string name="category_stadium">Stadiums</string>
+
+    <!-- Attractions -->
+    <string name="cn_tower">CN Tower</string>
+    <string name="casa_loma">Casa Loma</string>
+    <string name="royal_ontario_museum">Royal Ontario Museum</string>
+    <string name="ripley_aquarium">Ripleys Aquariam of Canada</string>
+    <string name="science_center">Ontario Science Center</string>
+    <string name="distillery_district">Distillery District</string>
+    <string name="art_gallery_of_ontario">Art Gallery of Ontario</string>
+    <string name="toronto_zoo">Toronto Zoo</string>
+
+    <!-- Attraction hours -->
+    <string name="cn_tower_hours">Hours: 9am - 10:30pm</string>
+    <string name="casa_loma_hours">Hours: 9:30am - 9pm</string>
+    <string name="museum_hours">Hours: 10am - 5:30pm</string>
+    <string name="riplys_hours">Hours: 9am - 11pm</string>
+    <string name="science_center_hours">Hours: 10am - 4pm</string>
+    <string name="distillery_hours">Hours: 10am - 8pm</string>
+    <string name="art_gallery_of_ontario_hours">Hours: 10:30am - 5pm</string>
+    <string name="toronto_zoo_hours">Hours: 9:30am - 4:30pm</string>
+
+    <!-- Shopping -->
+    <string name="vaughan_mills">Vaughan mills</string>
+    <string name="premium_outlets">Toronto Premium Outlets</string>
+    <string name="eaton_center">Eaton Center</string>
+    <string name="sherway_gardens">Sherway Gardens</string>
+    <string name="yorkdale_shopping_center">Yorkdale Shopping Center</string>
+    <string name="square_one">Square One</string>
+    <string name="woodbine_mall">Woodbine Mall</string>
+    <string name="dixie_outlet_mall">Dixie Outlet Mall</string>
+
+    <!-- Shopping contact -->
+    <string name="vaughan_mills_hours">Hours: 10am - 9pm</string>
+    <string name="premium_outlets_contact">Hours: 10am - 9pm</string>
+    <string name="eaton_center_contact">Hours: 10am - 9:30pm </string>
+    <string name="sherway_gardens_hours">Hours: 10am - 9pm</string>
+    <string name="yorkdale_shopping_center_hours">Hours: 10am - 9pm</string>
+    <string name="square_one_hours">Hours: 10am - 9pm</string>
+    <string name="woodbine_mall_hours">Hours: 10am - 9pm</string>
+    <string name="dixie_outlet_mall_hours">Hours: 10am - 9pm</string>
+
+    <!-- Stadiums -->
+    <string name="bmo_field">BMO Field</string>
+    <string name="scotiabank_arena">Scotiabank Arena</string>
+    <string name="rogers_center">Rogers Center</string>
+    <string name="coca_cola_coliseum">Coca-Cola Coliseum</string>
+    <string name="aviva_center">Aviva Centre</string>
+
+    <!-- Stadium Address -->
+    <string name="rogers_center_address">1 Blue Jays Way, Toronto, ON M5V 1J1</string>
+    <string name="scotiabank_address">40 Bay St, Toronto, ON M5J 2X2</string>
+    <string name="bmo_address">170 Princes\' Blvd, Toronto, ON M6K 3C3</string>
+    <string name="coca_cola_coliseum_address">45 Manitoba Dr, Toronto, ON M6K 3C3</string>
+    <string name="aviva_center_address">1 Shoreham Dr, North York, ON M3N 3A6</string>
+
+    <!-- Restaurants -->
+    <string name="symposium_cafe">Symposium Cafe</string>
+    <string name="scaramouche_restaurant">Scaramouche Restaurant</string>
+    <string name="moxies_bar_grill">Moxie\'s Grill and Bar</string>
+    <string name="alo_restaurant">Alo Restaurant</string>
+    <string name="scadabush">Scadabush</string>
+    <string name="boston_pizza">Boston Pizza</string>
+    <string name="canoe_restaurant_and_bar">Canoe Restaurant and Bar</string>
+    <string name="earls">Earls Kitchen + Bar</string>
+
+    <!-- Restaurant contact -->
+    <string name="symposium_contact">1-416-449-3611</string>
+    <string name="scaramouche_contact">416-961-8011</string>
+    <string name="moxies_hours">(905) 265-8090</string>
+    <string name="alo_hours">416 260 2222</string>
+    <string name="scadabush_hours">(905) 850-3565</string>
+    <string name="boston_pizza_contact">905-848-2700</string>
+    <string name="canoe_contact">(416) 364-0054</string>
+    <string name="earls_contact">(905) 851-9600</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
